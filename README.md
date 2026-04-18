@@ -296,3 +296,5 @@ This page introduces all links related to core and ecosystem development of Klay
 - [(2019/10/08) [ETH Devcon5] Extending Ethereum's Account and Transaction Models in Klaytn](https://archive.devcon.org/archive/watch/5/extending-ethereums-account-and-transaction-models-in-klaytn/?tab=YouTube)
 - [(2019/10/08) [KryptoOsaka] Klaytn - The Ground for All Blockchain Services](https://www.eventbrite.com/e/kryptoosaka-buidling-projects-of-east-and-west-tickets-74307566933#)
 - [(2018/11/29) [BUIDL Seoul 2018] Exploiting Parallelism with Lightweight Threads in Klaytn](https://buidl.kr/)
+
+- [7/Seven Chain Node](https://github.com/umairkhan2582/seven-chain-node) - Validator node for 7/Seven Chain (Chain ID: 70007), an EVM-compatible blockchain (BSC/Parlia fork) powering [TheSeven.meme](https://theseven.meme) — perpetual futures exchange with 100+ pairs, up to 2001× leverage, zero fees.
